@@ -1,4 +1,4 @@
-"results":[
+[
   {
     "category": "HTML",
     "type": "multipleChoice",
@@ -65,4 +65,5 @@
     "question": "What is another way of writing the notation x = x + 2",
     "correct_answer": "x +=2 ",
     "wrong_answers": ["x = y - 2", "y = x - 2", "x -= 2"]
-  }]
+  }
+]
