@@ -58,7 +58,8 @@
     "category": "Java",
     "type": "multipleChoice",
     "question": "Which variable is used to store integers (whole numbers)?",
-    "correct_answer": ["int", "wrong_answers": "float", "String", "boolean"]
+    "correct_answer": "int",
+    "wrong_answers": ["float", "String", "boolean"]
   },
   {
     "category": "Java",
