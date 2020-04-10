@@ -28,5 +28,6 @@
   {"type":"multipleChoice","question":"What is import used for?","correct_answer":"To import a package from Java API library","wrong_answers":["To import a method", "To import a variable", "To import an array"],"feedback":"import is used to access the Java API library and import it into the java file."},
   {"type":"multipleChoice","question":"What operator is used to compare two numeric values?","correct_answer":"==","wrong_answers":["=", ">", "<"],"feedback":"== is used to compare two numeric values."},
   {"type":"multipleChoice","question":"What method is used to find the size of a String?","correct_answer":"length()","wrong_answers":["getLength()", "size()", "getSize()"],"feedback":"length() is used to return the size of the String."},
-  {"type":"multipleChoice","question":"What is the method .equals() used for?","correct_answer":"Compare String variables.","wrong_answers":["To set a String to a variable", "To compare two operators", "To compare packages."],"feedback": ".equals() is used to compare two String instances."}
+  {"type":"multipleChoice","question":"What is the method .equals() used for?","correct_answer":"Compare String variables.","wrong_answers":["To set a String to a variable", "To compare two operators", "To compare packages."],"feedback": ".equals() is used to compare two String instances."},
+  {"type":"multipleChoice","question":"What operator is used to add two values together?","correct_answer":"+","wrong_answers":["-", "*", "<"],"feedback":"+ is used to add."}
   ]}
