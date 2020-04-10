@@ -99,9 +99,9 @@
   {
     "type": "multipleChoice",
     "question": "Select the correct way to create a checkbox field.",
-    "correct_answer": "<input type = "checkbox">",
-    "wrong_answers": ["<input style = "checkbox">", "<input style = "check">", "<checbox>"],
-    "feedback": "<input type="checkbox"> is the correct way to create a checkbox field while the other choices does not exist."
+    "correct_answer": "<input type = \"checkbox\">",
+    "wrong_answers": ["<input style = \"checkbox\">", "<input style = \"check\">", "<checkbox>"],
+    "feedback": "<input type=\"checkbox\"> is the correct way to create a checkbox field while the other choices does not exist."
   },
   {
     "type": "multipleChoice",
@@ -113,14 +113,14 @@
   {
     "type": "multipleChoice",
     "question": "Select the correct HTML syntax for creating a text input.",
-    "correct_answer": "<input type = "text">",
-    "wrong_answers": ["<textfield>", "<input type = "textfield">", "<input style = "text">"],
-    "feedback": "No need to put all the extra words as shown in the other choices just "text"."
+    "correct_answer": "<input type = \"text\">",
+    "wrong_answers": ["<textfield>", "<input type = \"textfield\">", "<input style = \"text\">"],
+    "feedback": "No need to put all the extra words as shown in the other choices just \"text\"."
   },
   {
     "type": "multipleChoice",
     "question": "Which is the correct way to set a background color for the HTML page?",
-    "correct_answer": "<body style="background-color:blue">",
+    "correct_answer": "<body style=\"background-color:blue\">",
     "wrong_answers": ["<body bg='yellow'>", "<background setColor:red>", "<body background-color=green>"],
     "feedback": "style = background-color is the correct way to set a background color for the HTML page."
   },
